@@ -13,4 +13,4 @@ This project enables users to quickly find relevant financial data
 - **SQL Server**: The database system used.
 - **Visual Studio Code**: The integrated development environment (IDE) for development.
 - **Git**: For version control.
-- **Swagger**: For API documentation.
+- **Swagger**: For API.
